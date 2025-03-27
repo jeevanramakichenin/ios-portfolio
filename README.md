@@ -46,5 +46,4 @@ Mon premier projet est un jeu classique de Tic Tac Toe, développé avec UIKit. 
 
 <br>
 
-<div style="text-align: center;">Merci d'avoir consulté mon portfolio ! N'hésitez pas à explorer les projets sur mon GitHub.</div>
-
+<p align="center">Merci d'avoir consulté mon portfolio ! N'hésitez pas à explorer les projets sur mon GitHub.</p>
