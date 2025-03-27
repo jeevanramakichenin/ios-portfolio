@@ -1,5 +1,7 @@
 👋 Salut ! Moi c’est Jeevan, je suis un développeur iOS passionné par la création d'applications IOS. Voici quelques-uns de mes projets récents réalisés avec UIKit et SwiftUI.
 
+<br>
+
 # 1. 🌤️ **[Weather App](https://github.com/votre-repo)**
 Ce projet est une application météo qui utilise l'API OpenWeather pour afficher les conditions météorologiques en temps réel. Ce projet m'a permis de me familiariser avec SwiftUI et les appels réseau.
 
@@ -19,6 +21,8 @@ Ce projet est une application météo qui utilise l'API OpenWeather pour affiche
 - 🌡️ Affichage de la météo actuelle
 - 🌬️ Détails sur la température, la vitesse du vent et l'humidité
 - 📍 Localisation automatique
+
+<br>
 
 # 2. ❌ **[Tic Tac Toe](https://github.com/votre-repo)** ⭕
 Mon premier projet est un jeu classique de Tic Tac Toe, développé avec UIKit. Ce projet m'a permis d'explorer les bases du développement d'interfaces graphiques sur iOS et de gérer les interactions utilisateurs.
