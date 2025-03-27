@@ -7,8 +7,8 @@ Ce projet est une application météo qui utilise l'API OpenWeather pour affiche
 
 <br>
 <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="./images/WeatherApp0.jpg" alt="Weather App - Écran d'accueil" width="300" />
-    <img src="./images/WeatherApp2.jpg" alt="Weather App - Météo actuelle" width="300" />
+    <img src="./images/WeatherApp0.jpg" alt="Weather App - Écran d'accueil" width="250" />
+    <img src="./images/WeatherApp2.jpg" alt="Weather App - Météo actuelle" width="250" />
 </div>
 <br>
 
@@ -29,9 +29,9 @@ Mon premier projet est un jeu classique de Tic Tac Toe, développé avec UIKit. 
 
 <br>
 <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="./images/TicTacToe1.jpg" alt="Tic Tac Toe - Début de partie" width="300" />
-    <img src="./images/TicTacToe2.jpg" alt="Tic Tac Toe - Partie en cours" width="300" />
-    <img src="./images/TicTacToe3.jpg" alt="Tic Tac Toe - Fin de partie" width="300" />
+    <img src="./images/TicTacToe1.jpg" alt="Tic Tac Toe - Début de partie" width="250" />
+    <img src="./images/TicTacToe2.jpg" alt="Tic Tac Toe - Partie en cours" width="250" />
+    <img src="./images/TicTacToe3.jpg" alt="Tic Tac Toe - Fin de partie" width="250" />
 </div>
 <br>
 
@@ -46,4 +46,4 @@ Mon premier projet est un jeu classique de Tic Tac Toe, développé avec UIKit. 
 
 <br>
 
-<p align="center">Merci d'avoir consulté mon portfolio ! N'hésitez pas à explorer les projets sur mon GitHub.</p>
+<p align="center" style="font-size: 18px; font-weight: bold;">Merci d'avoir consulté mon portfolio ! N'hésitez pas à explorer les projets sur mon GitHub.</p>
