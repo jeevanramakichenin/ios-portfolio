@@ -2,7 +2,7 @@
 
 <br>
 
-# 1. 🌤️ **[Weather App](https://github.com/votre-repo)**
+# 1. 🌤️ **[Weather App](https://github.com/jeevanramakichenin/Weather-App)**
 Ce projet est une application météo qui utilise l'API OpenWeather pour afficher les conditions météorologiques en temps réel. Ce projet m'a permis de me familiariser avec SwiftUI et les appels réseau.
 
 <br>
@@ -24,7 +24,7 @@ Ce projet est une application météo qui utilise l'API OpenWeather pour affiche
 
 <br>
 
-# 2. ❌ **[Tic Tac Toe](https://github.com/votre-repo)** ⭕
+# 2. ❌ **[Tic Tac Toe](https://github.com/jeevanramakichenin/TicTacToe-App)** ⭕
 Mon premier projet est un jeu classique de Tic Tac Toe, développé avec UIKit. Ce projet m'a permis d'explorer les bases du développement d'interfaces graphiques sur iOS et de gérer les interactions utilisateurs.
 
 <br>
