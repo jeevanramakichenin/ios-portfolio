@@ -5,12 +5,12 @@
 # 1. 🌤️ **[Weather App](https://github.com/votre-repo)**
 Ce projet est une application météo qui utilise l'API OpenWeather pour afficher les conditions météorologiques en temps réel. Ce projet m'a permis de me familiariser avec SwiftUI et les appels réseau.
 
-
-<div style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
+<br>
+<div style="display: flex; gap: 10px; justify-content: center;">
     <img src="./images/WeatherApp0.jpg" alt="Weather App - Écran d'accueil" width="300" />
     <img src="./images/WeatherApp2.jpg" alt="Weather App - Météo actuelle" width="300" />
 </div>
-
+<br>
 
 **Technologies utilisées :**
 - ⚙️ SwiftUI
@@ -27,13 +27,13 @@ Ce projet est une application météo qui utilise l'API OpenWeather pour affiche
 # 2. ❌ **[Tic Tac Toe](https://github.com/votre-repo)** ⭕
 Mon premier projet est un jeu classique de Tic Tac Toe, développé avec UIKit. Ce projet m'a permis d'explorer les bases du développement d'interfaces graphiques sur iOS et de gérer les interactions utilisateurs.
 
-
-<div style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
+<br>
+<div style="display: flex; gap: 10px; justify-content: center;">
     <img src="./images/TicTacToe1.jpg" alt="Tic Tac Toe - Début de partie" width="300" />
     <img src="./images/TicTacToe2.jpg" alt="Tic Tac Toe - Partie en cours" width="300" />
     <img src="./images/TicTacToe3.jpg" alt="Tic Tac Toe - Fin de partie" width="300" />
 </div>
-
+<br>
 
 **Technologies utilisées :**
 - 🖥️ UIKit
