@@ -13,7 +13,7 @@ Je suis un développeur iOS passionné par la création d'applications mobiles. 
 Ce projet est une application météo qui utilise l'API OpenWeather pour afficher les conditions météorologiques en temps réel. Ce projet m'a permis de me familiariser avec SwiftUI et les appels réseau.
 
 **Captures d'écran :**
-![Weather App - Écran d'accueil](./images/WeatherApp1.jpg)
+![Weather App - Écran d'accueil](./images/WeatherApp0.jpg)
 ![Weather App - Météo actuelle](./images/WeatherApp2.jpg)
 
 **Technologies utilisées :**
