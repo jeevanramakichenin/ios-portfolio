@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px; font-weight: bold;">👋 Salut ! Moi c’est Jeevan, je suis un développeur iOS passionné par la création d'applications IOS. Voici quelques-uns de mes projets récents réalisés avec UIKit et SwiftUI.</p>
+<p align="center" style="font-size: 20px; font-weight: bold;">👋 Salut ! Moi c’est Jeevan, je suis un développeur iOS passionné par la création d'applications mobile. Voici quelques-uns de mes projets récents réalisés avec UIKit et SwiftUI.</p>
 
 <br>
 
